@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # PortfolioWebsite
 Portfolio Website for Myself
 ```bash
